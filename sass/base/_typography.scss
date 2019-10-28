@@ -5,7 +5,7 @@ body {
     line-height: 1.7;
     color: $color-grey-dark;
     padding: 3rem;
-    
+
 }
 
 .heading-primary {
@@ -38,4 +38,10 @@ body {
         animation-timing-function: ease-in-out;
     }
 
+}
+
+.heading-secondary {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
 }
